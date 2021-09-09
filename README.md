@@ -29,3 +29,7 @@ The project helps in detecting age & gender of people.
 ## Pre-trained Caffe Deep Learning Models
 * MobileNet SSD (Single Shot Detector)
 
+## Demonstration
+![1](https://user-images.githubusercontent.com/67990422/132734554-8f99edcd-768f-4e82-957c-d23274af8efe.PNG)
+![2](https://user-images.githubusercontent.com/67990422/132734545-6464fb71-7028-49d5-a298-56e01a884f4e.PNG)
+![3](https://user-images.githubusercontent.com/67990422/132734537-8f27940a-220e-406a-976d-1c6a6fc4abff.PNG)
